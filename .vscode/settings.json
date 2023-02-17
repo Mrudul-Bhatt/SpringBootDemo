@@ -1,0 +1,9 @@
+{
+	"java.compile.nullAnalysis.mode": "automatic",
+	"editor.fontSize": 16,
+	"editor.formatOnSave": true,
+	"java.saveActions.organizeImports": true,
+	"omnisharp.organizeImportsOnFormat": false,
+	"java.configuration.updateBuildConfiguration": "automatic",
+	"editor.fontFamily": "Consolas, 'Courier New', Monospace"
+}
